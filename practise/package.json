@@ -1,0 +1,17 @@
+{
+  "name": "practise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node cow.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.0",
+    "cowsay": "^1.5.0"
+  }
+}
